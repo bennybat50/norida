@@ -267,6 +267,17 @@ list-style-type: square;
 	color: white;
 	margin-top: 30px;
 }
+.learn-more{
+	background-color: #2953A9;
+	padding: 15px 30px  ;
+	color: white;
+	margin-top: 30px;
+	text-align: center;
+}
+.center{
+	text-align: center;
+	margin: 40px;
+}
 .partners-top p{
 	font-size: 20px;
 	text-align: center;
@@ -320,4 +331,88 @@ list-style-type: square;
 .about-section2 .value h4{
 	font-size: 20px;
 	
+}
+
+
+.business-welcome{
+	width: 100%;
+	height: 550px;
+	background-image: url("../images/kevin-matos-Nl_FMFpXo2g-unsplash.jpg");
+	background-position: center;
+	background-size: cover;
+	background-attachment: fixed;
+	display: flex;
+	justify-content: center;
+	align-content: center;
+	flex-wrap: wrap;
+
+}
+
+.business-welcome h1{
+	color: white;
+	font-size: 50px;
+}
+.business-section img{
+	width: 100%;
+	height: 300px;
+	object-fit: cover;
+	
+}
+.business-section p{
+	font-size: 20px;
+	line-height: 35px;
+	text-align: justify;
+}
+.business-section .business-dark{
+	background-color: #dfdfdf;
+}
+
+.tech-welcome{
+	width: 100%;
+	height: 550px;
+	background-image: url("../images/christina-wocintechchat-com-glRqyWJgUeY-unsplash.jpg");
+	background-position: center;
+	background-size: cover;
+	background-attachment: fixed;
+	display: flex;
+	justify-content: center;
+	align-content: center;
+	flex-wrap: wrap;
+
+}
+
+.tech-welcome h1{
+	color: white;
+	font-size: 50px;
+}
+
+.contact-welcome{
+	width: 100%;
+	height: 550px;
+	background-image: linear-gradient(180deg,rgba(9, 28, 96, 0.176),rgba(9, 28, 96, 0.176)), url("../images/mediensturmer-aWf7mjwwJJo-unsplash.jpg");
+	background-position: center;
+	background-size: cover;
+	background-attachment: fixed;
+	display: flex;
+	justify-content: center;
+	align-content: center;
+	flex-wrap: wrap;
+
+}
+
+.contact-welcome h1{
+	color: white;
+	font-size: 50px;
+}
+.contact-infos h2{
+	text-align: left;
+}
+.contact-infos h4{
+	text-align: left;
+}
+.contact-infos i{
+	font-style: italic;
+	background-color: #2953A9;
+	padding: 2px;
+	color: white;
 }
