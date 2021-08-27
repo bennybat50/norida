@@ -260,5 +260,64 @@ font-size: 20px;
 line-height: 35px;
 color: #000;
 list-style-type: square;
+}
+.home-section2 a{
+	background-color: #2953A9;
+	padding: 15px 30px  ;
+	color: white;
+	margin-top: 30px;
+}
+.partners-top p{
+	font-size: 20px;
+	text-align: center;
+	line-height: 30px;
+}
+.partners-section{
+	background-color: #c3cfe75a
+}
+.about-welcome{
+	width: 100%;
+	height: 550px;
+	background-image: url("../images/hero_image_01.jpg");
+	background-position: center;
+	background-size: cover;
+	background-attachment: fixed;
+	display: flex;
+	justify-content: center;
+	align-content: center;
+	flex-wrap: wrap;
 
+}
+.about-welcome h1{
+	color: white;
+	font-size: 50px;
+}
+.about-section p{
+	font-size: 20px;
+	line-height: 30px;
+	text-align: justify;
+}
+
+.about-section2{
+	background-color: #E2E6EF;
+}
+.about-section2 .value{
+	padding: 10px;
+	text-align: center;
+	border-radius: 5px;
+	display: flex;
+	justify-content: space-between;
+	
+	box-shadow: 2px 2px 4px #e2e2e2;
+	background-color: #fff;
+}
+.about-section2 .value img{
+	width: 80px;
+	height: 80px;
+	object-fit: contain;
+}
+
+.about-section2 .value h4{
+	font-size: 20px;
+	
 }
