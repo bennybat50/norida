@@ -419,3 +419,10 @@ list-style-type: square;
 .contact-infos .info{
  font-weight: 300;
 }
+.footer-links{
+	text-align: center;
+}
+.footer-links a{
+	margin: 40px;
+	color: white;
+}
